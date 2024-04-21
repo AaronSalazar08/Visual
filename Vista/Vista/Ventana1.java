@@ -7,8 +7,8 @@ public class Ventana1 extends JFrame
      JPanel panel;
      JButton boton;
     public Ventana1(){
-panel=new JPanel();
-boton=new JButton();
+    panel=new JPanel();
+    boton=new JButton();
         setSize(1000,700);
         add(panel);
         panel.setLayout(null);
@@ -16,6 +16,7 @@ boton=new JButton();
         boton.setBounds(500, 500, 150, 40);
         boton.setText("Hola Aaron");
         this.setLocationRelativeTo(null);
+        //jijija
     }
 
 }
