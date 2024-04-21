@@ -16,6 +16,7 @@ boton=new JButton();
         boton.setBounds(500, 500, 150, 40);
         boton.setText("Hola Aaron");
         this.setLocationRelativeTo(null);
+        //jijija
     }
 
 }
