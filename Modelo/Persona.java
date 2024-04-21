@@ -5,6 +5,7 @@ private String nombre;
 private int edad;
 private int cantidad_dedos;
 
+
 //Constructor
 public Persona(String nombre, int edad, int cantidad_dedos) {
     this.nombre = nombre;
@@ -12,5 +13,7 @@ public Persona(String nombre, int edad, int cantidad_dedos) {
     this.cantidad_dedos = cantidad_dedos;
 }
 
-
 }
+
+
+
