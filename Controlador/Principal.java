@@ -1,10 +1,11 @@
 package Controlador;
 
+
 public class Principal {
 
     public static void main(String[] args) {
         
-        Ventana1 ventana=new Ventana1();
+        Ventana1 ventana = new Ventana1();
         ventana.setVisible(true);
     }
 }

@@ -8,7 +8,7 @@ public class Ventana1 extends JFrame
 
         setSize(1000,700);
         
-        setLocationRelative(null);
+        this.setLocationRelativeTo(null);
     }
 
 }
