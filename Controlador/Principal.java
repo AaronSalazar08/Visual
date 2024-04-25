@@ -7,5 +7,6 @@ public class Principal {
         
         Ventana1 ventana = new Ventana1();
         ventana.setVisible(true);
+        ventana.setTitle("Aaron");
     }
 }
