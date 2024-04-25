@@ -16,7 +16,7 @@ public class Ventana1 extends JFrame
         boton.setBounds(500, 500, 150, 40);
         boton.setText("Hola Aaron");
         this.setLocationRelativeTo(null);
-        //jijija
+        //Maylo esta tirando codigo
     }
 
 }
